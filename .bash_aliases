@@ -1,0 +1,9 @@
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias c='clear'
+alias clg='clear; ll; git status'
+alias apt-get="sudo apt-get"
+alias workspace="cd /mnt/c/Users/Mathias/Documents/GitHub/"
